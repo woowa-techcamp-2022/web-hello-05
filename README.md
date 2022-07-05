@@ -27,5 +27,16 @@
 
 ## 꿀팁
 
+### 터미널 꿀 팁🍯 - 터미널 자동완성 프로그램 [Fig](https://fig.io)
+
+터미널 자동완성 프로그램이에요!!
+
+매번, 디렉터리 이름, 브랜치 이름 등 언제 다 외우나요?
+
+자동완성을 한 번에 해결해 보세요!
+
+![fig image](https://fig.io/images/slideshow/screenshots/git.png)
+
+
 ### VS Code
 * ctrl + D : 같은 단어 찾기, 줄 한번에 변경하기 등
