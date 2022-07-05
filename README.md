@@ -36,3 +36,7 @@
 자동완성을 한 번에 해결해 보세요!
 
 ![fig image](https://fig.io/images/slideshow/screenshots/git.png)
+
+
+### VS Code
+* ctrl + D : 같은 단어 찾기, 줄 한번에 변경하기 등
